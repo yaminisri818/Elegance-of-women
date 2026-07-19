@@ -278,7 +278,7 @@ input, textarea, select {
   align-items: center;
   gap: 1.25rem;
 }
-@media (min-width: 1024px) { .navbar-links { display: flex; } }
+@media (min-width: 768px) { .navbar-links { display: flex; } }
 .navbar-links a {
   font-size: 0.75rem;
   font-weight: 500;
